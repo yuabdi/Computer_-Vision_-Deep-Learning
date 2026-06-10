@@ -1,4 +1,4 @@
-Automated Tooth Segmentation in Panoramic Dental Radiographs Using Computer Vision and Deep Learning
+Semantic Segmentation of Teeth in Panoramic Dental Images Using Deep Learning
 
 Abstract
 
